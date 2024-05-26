@@ -1,0 +1,28 @@
+button {
+  width: 100px;
+  height: 100px;
+  cursor: pointer;
+  padding: 0;
+}
+
+.reset {
+  width: 100px;
+  height: 40px;
+  margin: 20px 0 0 110px;
+  padding: 0;
+}
+
+.square.o {
+  background-color: lightblue;
+}
+
+.square.x {
+  background-color: lightcoral;
+}
+
+.win {
+  width: 200px;
+  height: 40px;
+  margin: 20px 0 0 110px;
+  padding: 0;
+}
